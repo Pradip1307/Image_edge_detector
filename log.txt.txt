@@ -1,3 +1,0 @@
-#This is suppose to be ignored. 
-#This file is not meant to be tracked.
-#NEw Comment
