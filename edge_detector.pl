@@ -1,6 +1,10 @@
 #!/usr/bin/perl
 
 # A very basic edge detector, which highlights the edges in an image.
+# Usage : edge_detector.pl <input image> <output image>
+# Inputs: Image file
+# Outputs : Image file
+# Example : edge_detector.pl -t=10 image_in.png image_out.png
 
 use 5.010;
 use strict;
