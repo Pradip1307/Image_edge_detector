@@ -90,6 +90,7 @@ for my $y (0 .. $height - 1) {
     }
 }
 
+# Create new image with only detected edges 
 open(my $fh, '>:raw', $out_file) or die "Can't open `$out_file' for write: $!";
 print $fh (
              $out_file =~ /\.png\z/i ? $new_img->png
