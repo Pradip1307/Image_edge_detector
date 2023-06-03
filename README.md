@@ -1,2 +1,2 @@
 # Image_edge_detector
-This repo is for maintaining the Image edge detector code.
+# A very basic edge detector, which highlights the edges in an image.
